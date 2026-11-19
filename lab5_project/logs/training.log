@@ -1,0 +1,12 @@
+2026-11-03 20:02:15,022 INFO Прочитано 10000 записів з stars_data_cleaned
+2026-11-03 20:02:15,610 INFO train acc=0.9974 | new_input acc=0.9850 f1_w=0.9852
+2026-11-03 20:02:15,722 INFO У predictions записано 9000 рядків (source=train)
+2026-11-04 01:01:57,193 INFO Прочитано 10000 записів з stars_data_cleaned
+2026-11-04 01:01:57,330 INFO train acc=1.0000 | new_input acc=0.9910 f1_w=0.9910
+2026-11-04 01:01:57,432 INFO У predictions записано 9000 рядків (source=train)
+2026-11-04 01:18:22,917 INFO Прочитано 10000 записів з stars_data_cleaned
+2026-11-04 01:18:23,021 INFO train acc=1.0000 | new_input acc=0.9910 f1_w=0.9910
+2026-11-04 01:18:23,134 INFO У predictions записано 9000 рядків (source=train)
+2026-11-04 15:32:41,204 INFO Прочитано 10000 записів з stars_data_cleaned
+2026-11-04 15:32:41,321 INFO train acc=1.0000 | new_input acc=0.9910 f1_w=0.9910
+2026-11-04 15:32:41,430 INFO У predictions записано 9000 рядків (source=train)

@@ -1,0 +1,38 @@
+{
+  "features": [
+    "Temperature_K",
+    "Luminosity_L_Sun",
+    "Radius_R_Sun",
+    "Mass_M_Sun",
+    "Distance_LY",
+    "Apparent_Magnitude",
+    "Absolute_Magnitude",
+    "Spectral_Class",
+    "Star_Color",
+    "Age_Million_Years",
+    "Metallicity",
+    "Rotation_Speed_KM_S",
+    "Constellation",
+    "Galaxy_Type",
+    "Variable_Star",
+    "Surface_Gravity"
+  ],
+  "labels": {
+    "0": "Brown Dwarf",
+    "1": "Giant",
+    "2": "Hypergiant",
+    "3": "Main Sequence",
+    "4": "Red Dwarf",
+    "5": "Supergiant",
+    "6": "White Dwarf"
+  },
+  "model_name": "RandomForest_API",
+  "params": {
+    "n_estimators": 50,
+    "max_depth": 20,
+    "min_samples_split": 2,
+    "class_weight": "balanced",
+    "random_state": 42
+  },
+  "trained_at": "2026-11-04T15:32:41"
+}
